@@ -1,0 +1,7 @@
+This is version 1 of Git.
+I want this to go into commit.
+Hello Devashri!! MAster
+Welcome to Git Tutorial...
+Learning Git Commands and enjoying!!
+Git Branching and Merging
+This is from master..
